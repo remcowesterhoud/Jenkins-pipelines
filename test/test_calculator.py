@@ -20,6 +20,6 @@ def test_multiply():
 
 
 def test_divide():
-    assert calculator.divide(2, 1) == 1
+    assert calculator.divide(2, 1) == 2
     assert calculator.divide(10, 2) == 5
     assert calculator.divide(100, 25) == 4
